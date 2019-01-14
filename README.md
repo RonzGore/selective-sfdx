@@ -1,7 +1,7 @@
 SelectiveMDPlugin
 =================
 
-Selective push/pull of metadata from scratch orgs to source format
+SFDX plugin to selectively retrieve metadata of a particular type from a scratch org to a specified directory and to deploy a particular module in source format to a scratch org.
 
 [![Version](https://img.shields.io/npm/v/SelectiveMDPlugin.svg)](https://npmjs.org/package/SelectiveMDPlugin)
 [![CircleCI](https://circleci.com/gh/rohanatgwcs/SelectiveMDPlugin/tree/master.svg?style=shield)](https://circleci.com/gh/rohanatgwcs/SelectiveMDPlugin/tree/master)
