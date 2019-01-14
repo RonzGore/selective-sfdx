@@ -1,0 +1,9 @@
+{
+  "pullCommandDescription": "Retrieves specific metadata/s to a sepcified location",
+  "pushCommandDescription": "Deploys specific metadata or a group of metadata from a sepcified location",
+  "nameFlagDescription": "Name of the component/s to retrieve",
+  "typeFlagDescription": "Type of the components to retrieve, only support one component at a time",
+  "targetdirFlagDescription": "Path of target directory where the component needs to be pulled",
+  "includedirFlagDescription":"If you want to retrieve the directory as well along with the metadata components",
+  "errorNoOrgResults": "No results found for the org '%s'."
+}
